@@ -1,3 +1,6 @@
+# This is public archive.
+You can find new version of the Vanilla PD server with this link: https://github.com/TextualMold9830/MPPDServerJar
+
 # About this repository
 This repository contains Pixel Dungeon code modified to multiplayer game. This codebase uses Gradle.
 
